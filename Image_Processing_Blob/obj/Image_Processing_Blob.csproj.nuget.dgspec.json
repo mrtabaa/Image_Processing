@@ -1,0 +1,85 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/reza/Documents/Projects/dating-app/backend/Image_Processing_Blob/Image_Processing_Blob.csproj": {}
+  },
+  "projects": {
+    "/home/reza/Documents/Projects/dating-app/backend/Image_Processing_Blob/Image_Processing_Blob.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/reza/Documents/Projects/dating-app/backend/Image_Processing_Blob/Image_Processing_Blob.csproj",
+        "projectName": "Image_Processing_Blob",
+        "projectPath": "/home/reza/Documents/Projects/dating-app/backend/Image_Processing_Blob/Image_Processing_Blob.csproj",
+        "packagesPath": "/home/reza/.nuget/packages/",
+        "outputPath": "/home/reza/Documents/Projects/dating-app/backend/Image_Processing_Blob/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/reza/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Azure.Storage.Blobs": {
+              "target": "Package",
+              "version": "[12.25.0, )"
+            },
+            "Microsoft.AspNetCore.Http.Abstractions": {
+              "target": "Package",
+              "version": "[2.3.0, )"
+            },
+            "SkiaSharp": {
+              "target": "Package",
+              "version": "[3.119.0, )"
+            },
+            "SkiaSharp.NativeAssets.Linux": {
+              "target": "Package",
+              "version": "[3.119.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/9.0.306/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+/home/reza/Documents/Projects/match-finder-plus/backend/image_processing/bin/Debug/net9.0/image_processing.deps.json
+/home/reza/Documents/Projects/match-finder-plus/backend/image_processing/bin/Debug/net9.0/image_processing.dll
+/home/reza/Documents/Projects/match-finder-plus/backend/image_processing/bin/Debug/net9.0/image_processing.pdb
+/home/reza/Documents/Projects/match-finder-plus/backend/image_processing/obj/Debug/net9.0/image_processing.csproj.AssemblyReference.cache
+/home/reza/Documents/Projects/match-finder-plus/backend/image_processing/obj/Debug/net9.0/image_processing.GeneratedMSBuildEditorConfig.editorconfig
+/home/reza/Documents/Projects/match-finder-plus/backend/image_processing/obj/Debug/net9.0/image_processing.AssemblyInfoInputs.cache
+/home/reza/Documents/Projects/match-finder-plus/backend/image_processing/obj/Debug/net9.0/image_processing.AssemblyInfo.cs
+/home/reza/Documents/Projects/match-finder-plus/backend/image_processing/obj/Debug/net9.0/image_processing.csproj.CoreCompileInputs.cache
+/home/reza/Documents/Projects/match-finder-plus/backend/image_processing/obj/Debug/net9.0/image_processing.sourcelink.json
+/home/reza/Documents/Projects/match-finder-plus/backend/image_processing/obj/Debug/net9.0/image_processing.dll
+/home/reza/Documents/Projects/match-finder-plus/backend/image_processing/obj/Debug/net9.0/refint/image_processing.dll
+/home/reza/Documents/Projects/match-finder-plus/backend/image_processing/obj/Debug/net9.0/image_processing.pdb
+/home/reza/Documents/Projects/match-finder-plus/backend/image_processing/obj/Debug/net9.0/ref/image_processing.dll

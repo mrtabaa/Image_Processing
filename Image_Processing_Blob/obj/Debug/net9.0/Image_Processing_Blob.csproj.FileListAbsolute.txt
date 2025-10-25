@@ -1,0 +1,13 @@
+/home/reza/Documents/Projects/dating-app/backend/Image_Processing_Blob/bin/Debug/net9.0/Image_Processing_Blob.deps.json
+/home/reza/Documents/Projects/dating-app/backend/Image_Processing_Blob/bin/Debug/net9.0/Image_Processing_Blob.dll
+/home/reza/Documents/Projects/dating-app/backend/Image_Processing_Blob/bin/Debug/net9.0/Image_Processing_Blob.pdb
+/home/reza/Documents/Projects/dating-app/backend/Image_Processing_Blob/obj/Debug/net9.0/Image_Processing_Blob.csproj.AssemblyReference.cache
+/home/reza/Documents/Projects/dating-app/backend/Image_Processing_Blob/obj/Debug/net9.0/Image_Processing_Blob.GeneratedMSBuildEditorConfig.editorconfig
+/home/reza/Documents/Projects/dating-app/backend/Image_Processing_Blob/obj/Debug/net9.0/Image_Processing_Blob.AssemblyInfoInputs.cache
+/home/reza/Documents/Projects/dating-app/backend/Image_Processing_Blob/obj/Debug/net9.0/Image_Processing_Blob.AssemblyInfo.cs
+/home/reza/Documents/Projects/dating-app/backend/Image_Processing_Blob/obj/Debug/net9.0/Image_Processing_Blob.csproj.CoreCompileInputs.cache
+/home/reza/Documents/Projects/dating-app/backend/Image_Processing_Blob/obj/Debug/net9.0/Image_Processing_Blob.sourcelink.json
+/home/reza/Documents/Projects/dating-app/backend/Image_Processing_Blob/obj/Debug/net9.0/Image_Processing_Blob.dll
+/home/reza/Documents/Projects/dating-app/backend/Image_Processing_Blob/obj/Debug/net9.0/refint/Image_Processing_Blob.dll
+/home/reza/Documents/Projects/dating-app/backend/Image_Processing_Blob/obj/Debug/net9.0/Image_Processing_Blob.pdb
+/home/reza/Documents/Projects/dating-app/backend/Image_Processing_Blob/obj/Debug/net9.0/ref/Image_Processing_Blob.dll
