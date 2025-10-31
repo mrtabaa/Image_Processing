@@ -1,0 +1,14 @@
+services:
+  back:
+    image: ghcr.io/hallboard-team/back-dotnet9-dev:latest
+    container_name: back_dev_Image_Processing
+    volumes:
+      - .:/workspaces/back
+      - vscode-server-cache:/root/.vscode-server
+      - vscode-user-extensions:/root/.vscode-server/extensions
+    ports:
+      - "5000:5000"
+
+volumes:
+  vscode-server-cache:
+  vscode-user-extensions:
