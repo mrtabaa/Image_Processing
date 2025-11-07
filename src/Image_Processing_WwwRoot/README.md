@@ -1,3 +1,7 @@
+#### Updates:
+- v1.1.0 => v1.1.1:
+    - No code is being changed. Only some GitHub links are fixed.
+---
 # Hallboard.SkiaSharp.ImageProcessing.WwwRoot
 
 Cross-platform image processing utility for ASP.NET Core applications, powered by **SkiaSharp**.
