@@ -1,6 +1,6 @@
 {
   "remoteUser": "root",
-  "dotnet.defaultSolution": "Ca.sln",
+  // "dotnet.defaultSolution": "Ca.sln",
   "editor.formatOnSave": true,
   "files.exclude": {
     "**/bin": true,

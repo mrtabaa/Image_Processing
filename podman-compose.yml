@@ -1,7 +1,10 @@
 services:
   back:
+    build:
+      context: .
+      dockerfile: Dockerfile.dev
     image: ghcr.io/hallboard-team/back-dotnet9-dev:latest
-    container_name: back_dev_Image_Processing
+    container_name: image-processing-www-root
     volumes:
       - .:/workspaces/back
       - vscode-server-cache:/root/.vscode-server

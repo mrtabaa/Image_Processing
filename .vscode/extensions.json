@@ -1,9 +1,0 @@
-{
-  "recommendations": [
-    "ms-dotnettools.csharp",
-    "ms-dotnettools.csdevkit",
-    "adrianwilczynski.user-secrets",
-    "maptz.regionfolder",
-    "jchannon.csharpextensions"
-  ]
-}
