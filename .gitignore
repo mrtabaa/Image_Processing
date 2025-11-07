@@ -1,5 +1,5 @@
 # .NET build and dependency artifacts
-**/bin/
-**/obj/
-**/project.assets.json
-**/project.nuget.cache
+bin/
+obj/
+project.assets.json
+project.nuget.cache
