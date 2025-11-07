@@ -1,16 +1,35 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
-    <PropertyGroup>
-        <TargetFramework>net9.0</TargetFramework>
-        <ImplicitUsings>enable</ImplicitUsings>
-        <Nullable>enable</Nullable>
-    </PropertyGroup>
+<PropertyGroup>
+    <TargetFramework>net9.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
 
-    <ItemGroup>
-        <PackageReference Include="Azure.Storage.Blobs" Version="12.25.0"/>
-        <PackageReference Include="Microsoft.AspNetCore.Http.Abstractions" Version="2.3.0"/>
-        <PackageReference Include="SkiaSharp" Version="3.119.0"/>
-        <PackageReference Include="SkiaSharp.NativeAssets.Linux" Version="3.119.0"/>
-    </ItemGroup>
+    <!-- NuGet metadata -->
+    <PackageId>Hallboard.SkiaSharp.ImageProcessing.AzureBlobStorage</PackageId>
+    <Version>1.1.0</Version>
+    <Authors>Reza Taba</Authors>
+    <Company>Hallboard</Company>
+    <Product>Hallboard Image Processing for ASP.NET Core</Product>
+    <Description>Cross-platform image processing utility using SkiaSharp for ASP.NET Core applications on Azure Blob Storage (optimized for Linux).</Description>
+    <PackageTags>SkiaSharp;Image;Processing;ASP.NET;Linux;Hallboard;Azure;Blob;Storage</PackageTags>
+    <RepositoryUrl>https://github.com/mrtabaa/Image_Processing</RepositoryUrl>
+    <PackageProjectUrl>https://github.com/mrtabaa/Image_Processing/tree/main/src/Image_Processing_AzureBlobStorage</PackageProjectUrl>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
+    <IncludeSymbols>true</IncludeSymbols>
+    <SymbolPackageFormat>snupkg</SymbolPackageFormat>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <RepositoryType>git</RepositoryType>
+    <PackageReadmeFile>README.md</PackageReadmeFile>
+</PropertyGroup>
+
+<ItemGroup>
+    <PackageReference Include="Azure.Storage.Blobs" Version="12.25.0"/>
+    <PackageReference Include="Microsoft.AspNetCore.Http.Abstractions" Version="2.3.0"/>
+    <PackageReference Include="SkiaSharp" Version="3.119.0"/>
+    <PackageReference Include="SkiaSharp.NativeAssets.Linux" Version="3.119.0"/>
+    <None Include="README.md" Pack="true" PackagePath="\"/>
+</ItemGroup>
 
 </Project>
